@@ -1,5 +1,6 @@
 # Hi there 👋
-I am Mary Rithika Reddy Gade, currently pursuing a Master's degree in Computer Science at George Mason University, expecting to graduate in May 2025. 🎓 My journey in the professional world  Classroom Support Assistant at George Mason University, and Analyst Intern in Full Stack and Data Engineering at PurpleTalk. 💼
+I am Mary Rithika Reddy Gade, currently pursuing a Master's degree in Computer Science at George Mason University, expecting to graduate in May 2025. 
+🎓 My journey in the professional world  Classroom Support Assistant at George Mason University, and Analyst Intern in Full Stack and Data Engineering at PurpleTalk. 💼
 
 I am actively seeking exciting full-time opportunities in Software Development, Data Engineering, AI/ML, and Full Stack Development. 
 
@@ -16,7 +17,7 @@ I am actively seeking exciting full-time opportunities in Software Development, 
 - **Certifications**: AWS Certified Cloud Practitioner, Packet Tracer - Cisco Networking Academy
 
 Coding and creating impactful solutions have become a true passion of mine.
-🖥️ From building web applications to developing machine learning models, I am constantly seeking new ways to innovate and improve.
+🖥️ From building web applications to developing machine learning models, I constantly seek new ways to innovate and improve.
 
 
 
