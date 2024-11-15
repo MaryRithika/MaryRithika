@@ -6,7 +6,7 @@ I am actively seeking exciting full-time opportunities in Software Development, 
 
 🚀 I’m passionate about solving real-world challenges through innovative software solutions and am always excited to collaborate with like-minded individuals.
 
-## My Skillset Includes:
+## 🌟 My Skillset Includes:
 - **Languages**: Java, Python, SQL, JavaScript, HTML/CSS, TypeScript
 - **Web Frameworks**: Spring Boot, Flask, Angular, React, Node.js
 - **Data Management**: MySQL, Apache Spark, Big Data Analytics
