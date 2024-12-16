@@ -14,7 +14,7 @@ I am actively seeking exciting full-time opportunities in Software Development, 
 - **Cloud & CI/CD Tools**: AWS, Jenkins, GitHub Actions, Terraform
 - **Data Analysis & Visualization**: Pandas, Matplotlib, R
 - **Operating Systems**: Linux and MacOS
-- **Certifications**: AWS Certified Cloud Practitioner, Packet Tracer - Cisco Networking Academy
+- **Certifications**: Packet Tracer - Cisco Networking Academy
 
 Coding and creating impactful solutions have become a true passion of mine.
 🖥️ From building web applications to developing machine learning models, I constantly seek new ways to innovate and improve.
