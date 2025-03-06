@@ -22,7 +22,7 @@ Coding and creating impactful solutions have become a true passion of mine.
 
 
 ## 📌 Featured Projects
-- **Full-Stack Student Survey Application (2024)**  
+- **SmartSurvey: A Full-Stack Feedback App(2024)**
   - Collaborated with a team of four to develop a full-stack web application that processed over 500 student surveys.
   - Built the frontend using Angular 2, implementing interactive forms (text fields, checkboxes, radio buttons, drop-down menus) that increased form submission efficiency by 30%.
   - Designed and deployed the backend using Spring Boot with RESTful Web Services, handling data persistence with JDBC/JPA, supporting a database of over 1,000 records.
