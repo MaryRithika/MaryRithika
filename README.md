@@ -9,7 +9,7 @@ I am actively seeking exciting full-time opportunities in Software Development, 
 ## 🌟 My Skillset Includes:
 - **Languages**: Java, Python, SQL, JavaScript, HTML/CSS, TypeScript
 - **Web Frameworks**: Spring Boot, Flask, Angular, React, Node.js
-- **Data Management**: MySQL, Apache Spark, Big Data Analytics
+- **Data Management**: MySQL,
 - **Containerization & Deployment**: Docker, Kubernetes
 - **Cloud & CI/CD Tools**: AWS, Jenkins, GitHub Actions, Terraform
 - **Data Analysis & Visualization**: Pandas, Matplotlib, R
