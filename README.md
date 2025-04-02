@@ -12,7 +12,7 @@ I am actively seeking exciting full-time opportunities in Software Development, 
 - **Data Management**: MySQL
 - **Containerization & Deployment**: Docker, Kubernetes
 - **Cloud & CI/CD Tools**: AWS, Jenkins, GitHub Actions, Terraform
-- **Data Analysis & Visualization**: Pandas, Matplotlib, R
+- **Data Analysis & Visualization**: Pandas, Matplotlib
 - **Operating Systems**: Linux and MacOS
 
 
@@ -27,7 +27,7 @@ Coding and creating impactful solutions have become a true passion of mine.
   - Built the frontend using Angular 2, implementing interactive forms (text fields, checkboxes, radio buttons, drop-down menus) that increased form submission efficiency by 30%.
   - Designed and deployed the backend using Spring Boot with RESTful Web Services, handling data persistence with JDBC/JPA, supporting a database of over 1,000 records.
 
-- **Microservices-based Student Survey Application (2024)**  
+- **Campus Connect: A Scalable Microservices-Based Feedback System**  
   - Architected and developed a modular microservices system using Spring Boot.
   - Employed Amazon RDS/MySQL for efficient CRUD operations and comprehensive data management.
   - Containerized the application, achieving 97% service uptime through robust error handling and recovery.
