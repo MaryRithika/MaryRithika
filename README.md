@@ -13,11 +13,10 @@ I am a **Full-Stack Software Engineer** passionate about delivering scalable and
 
 ##  Skillset
 - **Languages:** Java, Python, JavaScript, TypeScript, SQL, HTML/CSS  
-- **Frameworks:** Spring Boot, Flask, Angular, React, Node.js  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions  
-- **Data & AI/ML:** Pandas, Matplotlib, OpenAI/Gemini, Time-Series Forecasting  
-- **Others:** Git, Postman, Firebase, Stripe  
+- **Frameworks:** Spring Boot, Flask, Fast API, Angular, React, Node.js  
+- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB  
+- **Cloud Technologies/Tools:** AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions,Git, Postman.
+- **Data & AI/ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenAI/Gemini, Hugging Face, Time-Series Forecasting  
 - **Operating Systems:** Linux, macOS  
 
 ---
