@@ -46,7 +46,7 @@ I am a **Full-Stack Software Engineer** passionate about delivering scalable and
 - **B.Tech in Computer Science** – JNTU Hyderabad  
 
 **Certifications:**  
-- AWS Certified AI Practioner (In Progress)  
+- AWS Certified AI Practioner 
 
 
 ---
