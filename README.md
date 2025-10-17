@@ -1,7 +1,6 @@
 # Hi there, I'm Mary Rithika Reddy Gade 👋
 
 🎓 **M.S. in Computer Science** @ George Mason University (Graduated May 2025)  
-💼 Graduate Teaching Assistant • Former Software Engineer Intern @ PurpleTalk  
 🚀 Actively seeking full-time roles in Software Engineering | Cloud | AI/ML | Data Engineering | Full-Stack Development  
 
 ---
