@@ -1,3 +1,15 @@
+## Hello GitHubians! 👋
+
+Let's connect 🤝 and have a chat 💬  
+Because what's GitHub without collaboration?
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-rithika-reddy-gade-a74761191)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MaryRithika)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B5C?logo=vercel&logoColor=white)](https://portfoli-hero.lovable.app)
+
+
 ## 🚀 About Me
 
 Hi there! I'm Mary Rithika Reddy Gade, a **Cloud & AI Engineer** passionate about building scalable and secure cloud infrastructures and cutting-edge AI/ML solutions. With over 3 years of experience across multiple cloud platforms (AWS, Azure, GCP) and a diverse set of tools, I specialize in:
@@ -6,7 +18,7 @@ Hi there! I'm Mary Rithika Reddy Gade, a **Cloud & AI Engineer** passionate abou
 - **AI/ML Engineering** 
 - **DevOps & Infrastructure as Code**
 
-Currently based in **San Jose, California**, I am actively looking for new opportunities in **Cloud Engineering, AI/ML**, and **Software Development**.
+ I am actively looking for new opportunities in **Cloud Engineering, AI/ML**, and **Software Development**.
 
 ---
 
@@ -82,7 +94,6 @@ Currently based in **San Jose, California**, I am actively looking for new oppor
 ## 📬 Let's Connect!
 - 📧 **Email**: [gaderithikareddy@gmail.com](mailto:gaderithikareddy@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/mary-rithika-reddy-gade-a74761191](https://linkedin.com/in/mary-rithika-reddy-gade-a74761191)
-- 🌐 **Portfolio**: [mary-rithika-portfolio-zuwd.vercel.app](https://mary-rithika-portfolio-zuwd.vercel.app)
 - 🌐 **Portfolio**: [portfoli-hero.lovable.app](https://portfoli-hero.lovable.app)
 - GitHub: [github.com/MaryRithika](https://github.com/MaryRithika)
 
