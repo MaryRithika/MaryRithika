@@ -1,5 +1,4 @@
-## Hello GitHubians! 👋
-
+# Hi there, I'm Mary Rithika Reddy Gade 👋
 Let's connect 🤝 and have a chat 💬  
 Because what's GitHub without collaboration?
 
@@ -12,7 +11,7 @@ Because what's GitHub without collaboration?
 
 ## 🚀 About Me
 
-Hi there! I'm Mary Rithika Reddy Gade, a **Cloud & AI Engineer** passionate about building scalable and secure cloud infrastructures and cutting-edge AI/ML solutions. With over 3 years of experience across multiple cloud platforms (AWS, Azure, GCP) and a diverse set of tools, I specialize in:
+Hi there! I'm Mary Rithika Reddy Gade, a **Cloud & AI Engineer** passionate about building scalable and secure cloud infrastructures and cutting-edge AI/ML solutions. With over 4 years of experience across multiple cloud platforms (AWS, Azure, GCP) and a diverse set of tools, I specialize in:
 - **Cloud-Native Solutions**
 - **CI/CD Automation**
 - **AI/ML Engineering** 
