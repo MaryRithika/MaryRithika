@@ -47,25 +47,6 @@ Hi there! I'm Mary Rithika Reddy Gade, a **Cloud & AI Engineer** passionate abou
 
 ---
 
-## 🏆 Professional Experience
-
-### **DevSecOps Engineer (Volunteer)**  
-*Saayam for All, San Jose, California*  
-**October 2025 – Present**  
-- Architected secure **CI/CD pipelines** using **Jenkins** and **GitHub Actions**, integrating SAST, DAST, and compliance checks.
-- Designed and deployed containerized microservices on **AWS EKS**, leveraging **Kafka** for event-driven communication and scalable systems.
-- Integrated **AWS Cognito**, **API Gateway**, **Lambda**, and **RDS** to build secure, serverless authentication and data protection frameworks.
-
-### **Cloud & AI Engineer (Contract | Project-Based)**  
-*Blue Horse Digital, Richmond, Virginia*  
-**July 2025 – October 2025**  
-- Architected multi-region AWS infrastructure using **Terraform**, improving provisioning speed by 5x and reducing security misconfigurations by 90%.
-- Orchestrated end-to-end **CI/CD pipelines** with **Jenkins** and **GitHub Actions**, achieving zero-downtime releases and 60% faster deployment cycles.
-- Managed 40+ containerized microservices on **Kubernetes**, maintaining 99.95% uptime and reducing costs by 25% through autoscaling policies.
-- Engineered **LLM-powered data pipelines** using **LLaMA 3.3** and **OpenAI Whisper**, processing 10,000+ multimedia records weekly.
-
----
-
 ## 🔨 Projects
 
 ### **[KubeBridge – Docker, Kubernetes (GKE), Terraform, Argo CD, GitHub Actions](https://github.com/MaryRithika/KubeBridge)**  
