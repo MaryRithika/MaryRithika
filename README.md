@@ -72,7 +72,7 @@ Hi there! I'm Mary Rithika Reddy Gade, a **Cloud & AI Engineer** passionate abou
 ---
 
 ## 📬 Let's Connect!
-- 📧 **Email**: [gaderithikareddy@gmail.com](mailto:gaderithikareddy@gmail.com)
+- 📧 **Email**: [maryrithikareddy@gmail.com](mailto:maryrithikareddy@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/mary-rithika-reddy-gade-a74761191](https://linkedin.com/in/mary-rithika-reddy-gade-a74761191)
 - GitHub: [github.com/MaryRithika](https://github.com/MaryRithika)
 
