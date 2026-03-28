@@ -6,7 +6,7 @@ Because what's GitHub without collaboration?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-rithika-reddy-gade-a74761191)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MaryRithika)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B5C?logo=vercel&logoColor=white)](https://portfoli-hero.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B5C?logo=vercel&logoColor=white)](https://gaderithika.lovable.app/)
 
 
 ## 🚀 About Me
